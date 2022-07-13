@@ -1,5 +1,4 @@
 # Monitoring_tool
-## About project
 
 This application is created as an exercise in learning multithreading. Using it, you can run timers, ensure the integrity of folders and monitor current flows.
 
